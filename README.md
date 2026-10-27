@@ -74,16 +74,16 @@ If no solution exists, it prints:
 Unsolvable
 ```
 
-## TOPICS
-cpp
-c++
-sudoku
-sudoku-solver
-backtracking
-recursion
-algorithms
-problem-solving
-competitive-programming
+## Technologies
+
+- **C++**
+- Arrays
+- Recursion
+- Backtracking
+- Constraint checking
+- Algorithm
+- Problem solving
+- Competitive programming
 
 ## Concepts Practiced
 
@@ -143,6 +143,3 @@ sudoku-solver/
 ├── sudoku.cpp
 └── README.md
 ```
-
-GitHub: https://github.com/nirraZ14  
-LinkedIn: https://www.linkedin.com/in/zarrin-tasnim-chowdhury-b24288432
